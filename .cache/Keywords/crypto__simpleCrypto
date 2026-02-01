@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "17EBD4EB2333CB4031ED333E1B0E55D2",
+  "keywordClasses": [
+    {
+      "name": "crypto.SimpleCrypto",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

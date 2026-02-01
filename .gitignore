@@ -1,18 +1,16 @@
-.gradle
+# Katalon generated files
+Reports/
+bin/
+Libs/
+Drivers/
+.tmp/
+.log/
 
-bin
+# OS
+.DS_Store
+Thumbs.db
 
-Reports
-
-Libs
-
-output
-
-!output/.gitkeep
-build
-
-.classpath
-
-.project
-
-.cache
+# IDE
+.idea/
+.vscode/
+*.iml
